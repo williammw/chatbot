@@ -1,0 +1,22 @@
+#chat-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#message-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#message-list li {
+  margin-bottom: 10px;
+}
+
+.user {
+  color: blue;
+}
+
+.bot {
+  color: green;
+}
